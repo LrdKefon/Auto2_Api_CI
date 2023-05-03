@@ -1,3 +1,8 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/7jdg5gxg07kg2u9e?svg=true)](https://ci.appveyor.com/project/LrdKefon/auto2-api-ci)
+
+
+
+
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
