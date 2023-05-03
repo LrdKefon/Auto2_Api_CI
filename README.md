@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/7jdg5gxg07kg2u9e?svg=true)](https://ci.appveyor.com/project/LrdKefon/auto2-api-ci)
+# [![Build status](https://ci.appveyor.com/api/projects/status/7jdg5gxg07kg2u9e?svg=true)](https://ci.appveyor.com/project/LrdKefon/auto2-api-ci)
 
 
 
